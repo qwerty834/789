@@ -1,0 +1,16 @@
+.hh33{
+    width:80%;
+    font-size:72px;
+}
+body{
+    background-color:pink;
+    color:white;
+}
+b,#result_object_name,#result_object_accuracy{
+    color:yellow;
+}
+#camera,#result{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
